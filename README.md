@@ -1,13 +1,13 @@
 # Hi there 👋 - I'm Karl 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Physics+and+Astrophysics+Graduate;who+likes+stars;and+galaxies!;and+basically+all+cool+science;Newish+to+github;currently+learning;Machine+Learning;Physics+and+Astrophysics+Graduate;NO+it's+not+a+loop;ok+maybe+it+is)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Physics+and+Astrophysics+Graduate;who+likes+stars;and+galaxies!;and+basically+all+cool+science;Newish+to+github;currently+learning;Machine+Learning;Physics+and+Astrophysics+Graduate;NO+it's+not+a+loop;ok+maybe+it+is...)](https://git.io/typing-svg)
 ---
 
 - I have worked on Formula Trinity, an autonomous racing team from Dublin which competes in Formula Student UK. Last year we won the Tata Elxsi FSAI best design prize
 - I have some code investigating different areas of physics such as [statistical thermodynamics](https://github.com/KarlNichlsn/STATISTICAL_THERMO) and [supernovae](https://github.com/KarlNichlsn/PHYSICS_PROJs/tree/main/SUPERNOVAE_REDSHIFT_COSMOLOGY) and also some more computational stuff like [principal component analysis]()
 - I used SMA data to look at the molecular gas in [NGC891](https://github.com/KarlNichlsn/NGC891) for my thesis
   
-- I'm currently learning ML from complete basics (no tensorflow!) like [this]()
+- I'm currently self teaching ML from complete basics (no tensorflow!) like [this]()
 
 
 
