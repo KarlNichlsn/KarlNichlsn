@@ -1,6 +1,6 @@
 # Hi there 👋 - I'm Karl 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Physics+and+Astrophysics+Graduate;who+likes+stars;and+galaxies!;and+basically+all+cool+science;Newish+to+github;currently+learning;Machine+Learning;Physics+and+Astrophysics+Graduate;NO+it's+not+a+loop;ok+maybe+it+is...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Physics+and+Astrophysics+Graduate;who+likes+stars;and+galaxies!;and+basically+all+cool+science;Newish+to+github;currently+learning+ML;Physics+and+Astrophysics+Graduate;NO+it's+not+a+loop;ok+maybe+it+is...)](https://git.io/typing-svg)
 ---
 
 - I have worked on Formula Trinity, an autonomous racing team from Dublin which competes in Formula Student UK. Last year we won the Tata Elxsi FSAI best design prize
