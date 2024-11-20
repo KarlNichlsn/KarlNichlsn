@@ -4,10 +4,10 @@
 ---
 
 - I have worked on Formula Trinity, an autonomous racing team from Dublin which competes in Formula Student UK. Last year we won the Tata Elxsi FSAI best design prize
-- I have some code investigating different areas of physics such as [statistical thermodynamics](https://github.com/KarlNichlsn/STATISTICAL_THERMO) and [supernovae](https://github.com/KarlNichlsn/PHYSICS_PROJs/tree/main/SUPERNOVAE_REDSHIFT_COSMOLOGY) and also some more computational stuff like [principal component analysis]()
+- I have some code investigating different areas of physics such as [statistical thermodynamics](https://github.com/KarlNichlsn/STATISTICAL_THERMO) and [supernovae](https://github.com/KarlNichlsn/PHYSICS_PROJs/tree/main/SUPERNOVAE_REDSHIFT_COSMOLOGY) and also some more computational stuff like [principal component analysis](https://github.com/KarlNichlsn/PHYSICS_PROJs/tree/main/PCA)
 - I used SMA data to look at the molecular gas in [NGC891](https://github.com/KarlNichlsn/NGC891) for my thesis
   
-- I'm currently self teaching ML from complete basics (no tensorflow!) like [this]()
+- I'm currently self teaching [ML from complete basics](https://github.com/KarlNichlsn/MNIST_ML)(no tensorflow/pytorch!)
 
 
 
